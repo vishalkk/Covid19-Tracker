@@ -1,3 +1,7 @@
+
+  <p>               
+<img src="Covid_tracker.png" width="300">
+</p>
 ## Welcome to Covid-19 Tracker
 
 You can use the [editor on GitHub](https://github.com/vishalkk/Covid19-Tracker/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
