@@ -9,7 +9,7 @@ This project aims to build a functional real-time Worldwide Covid19 Tracker     
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## Markdown
+## 
 Material design is used in widgets and application
 Different Flutter Widget is used in app design
 Flutter  framework is used for application development
@@ -18,6 +18,8 @@ SHARED_PREFERENCES a dart package used for data caching
 INTL: 0.16.1 dart package used for Live date and Time aupdates
 REST client and http package is used for accessing information from API.
 
+                  
+<img src="Covid_tracker%20mainscreen.jpg" width="300"> 
 ![image](https://user-images.githubusercontent.com/36620044/128635629-b23bfc3b-a93e-442e-822c-32995b7d7716.png)
 
 
