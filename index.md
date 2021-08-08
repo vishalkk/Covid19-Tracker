@@ -19,7 +19,7 @@ INTL: 0.16.1 dart package used for Live date and Time aupdates
 REST client and http package is used for accessing information from API.
 
                   
-<img src="Covid_tracker%20mainscreen.jpg" width="300"> 
+<img src="Covid_tracker%20mainscreen.png" width="300"> 
 ![image](https://user-images.githubusercontent.com/36620044/128635629-b23bfc3b-a93e-442e-822c-32995b7d7716.png)
 
 
