@@ -1,6 +1,7 @@
 # corona_virus_tracker
+Covid_tracker.png
 
-A new Flutter project.
+<img src="Covid_tracker.png" width="300">
 
 ## Getting Started
 
