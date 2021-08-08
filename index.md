@@ -4,11 +4,11 @@ You can use the [editor on GitHub](https://github.com/vishalkk/Covid19-Tracker/e
 
 The recent outbreak of COVID-19 has taken the world by surprise, forcing lockdowns and straining public health care systems. COVID-19 is known to be a highly infectious virus, and infected individuals do not initially exhibit symptoms, while some remain asymptomatic.
 This project aims to build a functional real-time Worldwide Covid19 Tracker       application  by using modern REST API and Flutter framework. Although we are not expecting it to have a plethora of utilities due to the limited time frame, sharing code and watching a repository will be our core features. It will be fully open-source. Everyone will be able to dig into the code to read what is going on behind the scenes, or even contribute to the source code. So it was within our intentions to write clean, scalable code following the most popular patterns and conventions for each of the languages and relevant libraries
-![image](https://user-images.githubusercontent.com/36620044/128635594-14a6bccb-1826-4181-935f-b141ab2adb4d.png)
 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+<!-- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ -->
 ## 
 Material design is used in widgets and application
 Different Flutter Widget is used in app design
@@ -18,7 +18,7 @@ SHARED_PREFERENCES a dart package used for data caching
 INTL: 0.16.1 dart package used for Live date and Time aupdates
 REST client and http package is used for accessing information from API.
 
-     <br>             
+                 
 <img src="Covid_tracker%20mainscreen.png" width="300"> 
 
 <!-- 
